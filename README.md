@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Parasuraman G
 
-<!--
-**Parasu-21/Parasu-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- BE Electronics and Communication Engineering (ECE)
+- Kongu Engineering College, Perundurai
+- Interested in Embedded Systems, IoT, AI, and networking
+- Learning Full-Stack Development and Cloud Technologies
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- 8T low power SRAM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C
+- Python
+- Java
+- MySQL
+
+## 📚 Currently Learning
+- VLSI Design
+- Embedded Systems
+- Sql
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/parasuraman-g-2475b0340/
+- GitHub: https://github.com/Parasu-21
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+
+---
+⭐ Always learning and building new things!
