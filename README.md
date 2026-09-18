@@ -7,7 +7,7 @@
 - Learning Full-Stack Development and Cloud Technologies
 
 ## 🚀 Current Projects
-- 8T low power SRAM
+- 13T radiation hardened SRAM for radiation environment
 
 ## 🛠️ Skills
 - C
